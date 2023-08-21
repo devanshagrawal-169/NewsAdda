@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/8a818266-6d97-4619-9dcf-0873d781a60c)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
