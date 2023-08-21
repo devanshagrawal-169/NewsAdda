@@ -8,7 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 ![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/8a818266-6d97-4619-9dcf-0873d781a60c)
-
+![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/04638dd1-69fa-4518-9ec3-9f367cb9f585)
+![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/70d2c694-69d8-47d1-a4e2-fb325f99e9cc)
+![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/9f5256a0-7051-4990-8983-18ff95fc2eb3)
+![image](https://github.com/devanshagrawal-169/NewsAdda/assets/83854973/dcbf7639-e3fc-447f-85b6-cb03306b465f)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
